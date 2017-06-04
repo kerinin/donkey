@@ -49,6 +49,7 @@ setup(name='donkey',
                         'tensorflow',
                         ],
                     'pi': [
+                        'keras',
                         'picamera',
                         'Adafruit_PCA9685',
                         ]
